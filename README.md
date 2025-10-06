@@ -11,19 +11,19 @@ Production-ready visual programming scripts for Revit automation, parametric mod
 
 ## Featured Scripts
 
-### 🔢 Intelligent Room Numbering
+###  Intelligent Room Numbering
 Automatically numbers rooms based on floor level and spatial arrangement.
 
-### 📋 Batch Sheet Creator
+###  Batch Sheet Creator
 Creates complete sheet sets from template with automatic view placement.
 
-### ✓ Parameter Validator
+###  Parameter Validator
 Scans model for missing or invalid parameter values.
 
-### 🔄 Family Instance Replacer
+###  Family Instance Replacer
 Swaps family instances while preserving location and parameters.
 
-### 📐 Adaptive Grid Generator
+###  Adaptive Grid Generator
 Creates parametric grid systems that adapt to site boundaries.
 
 ## Tech Stack
