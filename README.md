@@ -1,3 +1,10 @@
+## Note on Script Availability
+
+These scripts were developed for specific client projects and contain proprietary 
+workflows. This repository serves as documentation of the approach and methodology. 
+
+For collaboration or custom script development, please contact me directly.
+
 # Dynamo Script Library
 
 Production-ready visual programming scripts for Revit automation, parametric modeling, and quality control.
